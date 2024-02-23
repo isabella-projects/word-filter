@@ -16,7 +16,11 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="45" height="45"/>
 </div>
 
-# 🧪 Test the plugin locally by:
+# 🧪 Word Filter
+
+# 📝 Overview
+
+This WordPress plugin allows you to filter list of words and replace them with other content. You can add a comma-separated words, which are going to be replaced with other content. You can also customize the content inside the `Options` submenu.
 
 ## Cloning the project
 
