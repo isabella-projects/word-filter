@@ -32,7 +32,7 @@
 
 ## And the last step:
 
--   Put `word-filter.php` inside `/plugins` folder of your WordPress Website
+-   Put `word-filter` folder inside your WordPress website `/plugins` folder
 -   Activate the plugin in your Plugin Dashboard
 -   Customize in the settings for your needs
 
