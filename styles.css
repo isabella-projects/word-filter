@@ -1,0 +1,23 @@
+.word-filter__flex-container {
+    display: flex;
+}
+
+.word-filter__flex-container textarea {
+    flex: 1;
+    min-height: 200px;
+    margin-bottom: 20px;
+}
+
+.options {
+    font-weight: 600;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 4px;
+}
+
+.wrap h1 {
+    font-size: 1.825rem;
+}
+
+form p {
+    font-size: 1.125rem;
+}
